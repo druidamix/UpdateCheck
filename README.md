@@ -1,1 +1,1 @@
-To fill
+My version of [AppaholicsUpdateChecker](https://github.com/RaghavSood/AppaholicsUpdateChecker)
